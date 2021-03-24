@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleText</string>
+    <string name="action_help">تعليمات</string>
+    <string name="description">Nougat هي عائلة من الحلويات المصنوعة من الحلويات أو العسل ، والفاصوليا المخبوزة (اللوز والجوز والفطائر والبندق والمكسرات المكاداميا الشائعة) ، وبياض البيض المضروب ، والفاكهة المفرومة في بعض الأحيان. يتم استخدامه في مجموعة متنوعة من الحلويات والشوكولاتة.</string>
+    <string name="nougat">نوغات كاندي الحزمة</string>
+    <string name="help_text">إذا كنت بحاجة إلى مساعدة، اتصل بقسم الدعم لدينا.</string>
+    <string name="language">اللغة</string>
+    <string name="expiration_date">تاريخ انتهاء الصلاحية:</string>
+    <string name="quantity_label">كميه:</string>
+    <string name="enter_a_number">أدخل رقماً</string>
+    <string name="price_label">سعر الحزمة الواحدة:</string>
+    <string name="total_to_pay">إجمالي الدفع:</string>
+    <string name="enter_number">أدخل رقماً</string>
+</resources>
